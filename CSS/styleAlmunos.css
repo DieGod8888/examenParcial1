@@ -27,7 +27,7 @@ nav {
 nav a {
     color: white;
     text-decoration: none;
-    margin-left: 20px; /* Espacio entre los enlaces */
+    margin-left: 20px;
 }
 
 .nav1 a:hover {
@@ -73,7 +73,7 @@ section {
     color: white;
     font-weight: bold;
     font-size: 20px;
-    background-color: rgb(27, 172, 216); /* Fondo para el contenedor */
+    background-color: rgb(27, 172, 216);
     padding: 15px;
     border-radius: 10px;
 }
